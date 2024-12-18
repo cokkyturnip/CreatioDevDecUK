@@ -1,0 +1,19 @@
+<Project>
+	<ItemGroup Condition="'$(PkgPath)' != ''">
+		<Compile Remove="$(PkgPath)/MiiRealty/Assemblies/**" />
+		<Compile Remove="$(PkgPath)/MiiRealty/Data/**" />
+		<Compile Remove="$(PkgPath)/MiiRealty/SqlScripts/**" />
+		<Compile Remove="$(PkgPath)/MiiRealty/Schemas\**" />
+		<Compile Remove="$(PkgPath)/MiiRealty/Resources/**" />
+		<EmbeddedResource Remove="$(PkgPath)/MiiRealty/Assemblies/**" />
+		<EmbeddedResource Remove="$(PkgPath)/MiiRealty/Data/**" />
+		<EmbeddedResource Remove="$(PkgPath)/MiiRealty/SqlScripts/**" />
+		<EmbeddedResource Remove="$(PkgPath)/MiiRealty/Schemas/**" />
+		<EmbeddedResource Remove="$(PkgPath)/MiiRealty/Resources/**" />
+		<None Remove="$(PkgPath)/MiiRealty/Assemblies/**" />
+		<None Remove="$(PkgPath)/MiiRealty/Data/**" />
+		<None Remove="$(PkgPath)/MiiRealty/SqlScripts/**" />
+		<None Remove="$(PkgPath)/MiiRealty/Schemas/**" />
+		<None Remove="$(PkgPath)/MiiRealty/Resources/**" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,7 @@
+<Project>
+	<ItemGroup Label="Entity Files" Condition="'$(PkgPath)' != ''">
+		<Compile Include="$(PkgPath)/MiiRealty/Schemas/MiiRealty/MiiRealty.cs" Condition="Exists('$(PkgPath)/MiiRealty/Schemas/MiiRealty/MiiRealty.cs')" />
+		<Compile Include="$(PkgPath)/MiiRealty/Schemas/MiiRealtyOfferType/MiiRealtyOfferType.cs" Condition="Exists('$(PkgPath)/MiiRealty/Schemas/MiiRealtyOfferType/MiiRealtyOfferType.cs')" />
+		<Compile Include="$(PkgPath)/MiiRealty/Schemas/MiiRealtyType/MiiRealtyType.cs" Condition="Exists('$(PkgPath)/MiiRealty/Schemas/MiiRealtyType/MiiRealtyType.cs')" />
+	</ItemGroup>
+</Project>

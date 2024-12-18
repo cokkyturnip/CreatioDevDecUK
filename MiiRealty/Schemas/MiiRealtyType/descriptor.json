@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "fe7e4dce-c02e-4235-8529-05c72f3ba84f",
+    "Name": "MiiRealtyType",
+    "ModifiedOnUtc": "\/Date(1734082340000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Realty Type",
+    "DependsOn": []
+  }
+}

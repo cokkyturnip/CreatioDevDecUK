@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "7a412668-5f2d-4dda-bfa0-ccc382b29944",
+    "Name": "MiiTestProcess",
+    "ModifiedOnUtc": "\/Date(1734442103000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Business process 1",
+    "DependsOn": []
+  }
+}

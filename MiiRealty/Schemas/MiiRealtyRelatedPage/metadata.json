@@ -1,0 +1,28 @@
+{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "AddonSchemaManager",
+      "UId": "f6fb7dfa-3049-4d17-b7de-d1411a3cd885",
+      "A2": "MiiRealtyRelatedPage",
+      "A5": "6f71e54c-1960-40c9-94f6-073fd67699ab",
+      "B1": [],
+      "B2": [],
+      "B3": [],
+      "B6": "5530927f-22ea-e7c9-4ccf-506d3a6c2ed2",
+      "B8": "0.0.0.0",
+      "AD1": "6166c6ac-6563-409f-8caa-a07c969d561b",
+      "AD2": "EntitySchemaManager",
+      "AD3": "RelatedPage",
+      "AD5": "3a2d6f51-1bfc-4c17-aacb-b53de4866b7c",
+      "AD4": {
+        "Pages": [
+          {
+            "UId": "04c25070-7128-4bcf-b30a-e48880e8a102",
+            "PageSchemaUId": "a8d59d0f-240d-413a-977c-3a26cd246cfa",
+            "IsDefault": true
+          }
+        ]
+      }
+    }
+  }
+}

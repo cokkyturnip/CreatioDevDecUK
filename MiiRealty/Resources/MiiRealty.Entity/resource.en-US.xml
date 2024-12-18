@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Realty" />
+			<Item Name="Columns.MiiArea.Caption" Value="Area, sq m" />
+			<Item Name="Columns.MiiComment.Caption" Value="Comment" />
+			<Item Name="Columns.MiiName.Caption" Value="Name" />
+			<Item Name="Columns.MiiNumber.Caption" Value="Number" />
+			<Item Name="Columns.MiiPrice.Caption" Value="Price, USD" />
+			<Item Name="Columns.MiiRealtyManager.Caption" Value="Manager" />
+			<Item Name="Columns.MiiRealtyOfferType.Caption" Value="Offer Type" />
+			<Item Name="Columns.MiiRealtyType.Caption" Value="Type" />
+		</Items>
+	</Group>
+</Resources>
