@@ -1,0 +1,102 @@
+{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "EntitySchemaManager",
+      "UId": "76d44c3c-d560-41a7-a55b-1bcfc60e4eb3",
+      "A2": "MiiVwContactAgeDays",
+      "A5": "4711b182-4fd1-4894-a925-adf2274d346f",
+      "B1": [],
+      "B2": [],
+      "B3": [],
+      "B6": "7dbd940b-b1ad-8e66-2e0c-90d364dbc7e8",
+      "B8": "8.2.0.4183",
+      "EG1": {
+        "UId": "3ad9fb18-2d7c-47f8-b5d3-d1f916cef9c6",
+        "A2": "MiiEntity_4097db8EventsProcess",
+        "A5": "4711b182-4fd1-4894-a925-adf2274d346f",
+        "B1": [],
+        "B2": [],
+        "B3": [],
+        "B8": "8.2.0.4183",
+        "FJ1": [],
+        "IJ3": false,
+        "BK8": "bb4d6607-026b-4b27-b640-8f5c77c1e89d",
+        "BK15": [],
+        "BK37": {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
+          "UId": "cdd58be7-2dba-4a5e-869b-1ad5d6d7513a",
+          "A2": "NotificationCaption",
+          "A3": "bb4d6607-026b-4b27-b640-8f5c77c1e89d",
+          "A4": "bb4d6607-026b-4b27-b640-8f5c77c1e89d",
+          "L1": "8b3f29bb-ea14-4ce5-a5c5-293a929b6ba2",
+          "L8": {
+            "GS1": 3,
+            "GS2": "[#[PropertyValue:Caption]#]"
+          }
+        },
+        "BK1": "FFFFFFFF",
+        "BK2": "FFBBBBBB",
+        "BK3": [],
+        "BK5": [],
+        "BK4": [],
+        "BK9": [],
+        "BK10": true,
+        "BK34": "null",
+        "Labels": [],
+        "BK24": [],
+        "JC1": []
+      },
+      "D10": true,
+      "D8": "1b56b061-4e91-4974-9038-df8340e534f2",
+      "D29": "null",
+      "D30": "null",
+      "D31": "null",
+      "D3": "46283262-cd43-918e-73b0-55e3023dbb07",
+      "D4": "048cf880-68d1-9bc2-7f6f-7e0d8f244b28",
+      "D2": [
+        {
+          "UId": "175bbe24-3b71-d018-ad18-ea2028ca2460",
+          "A2": "MiiAgeDays",
+          "A3": "76d44c3c-d560-41a7-a55b-1bcfc60e4eb3",
+          "A4": "76d44c3c-d560-41a7-a55b-1bcfc60e4eb3",
+          "A5": "4711b182-4fd1-4894-a925-adf2274d346f",
+          "S2": "6b6b74e2-820d-490e-a017-2b73d4ccf2b0"
+        },
+        {
+          "UId": "c15f674a-ba27-0293-2af9-31a91c0da979",
+          "A2": "MiiBirthDate",
+          "A3": "76d44c3c-d560-41a7-a55b-1bcfc60e4eb3",
+          "A4": "76d44c3c-d560-41a7-a55b-1bcfc60e4eb3",
+          "A5": "4711b182-4fd1-4894-a925-adf2274d346f",
+          "S2": "603d4960-a1a2-45e9-b232-206a54421b01"
+        },
+        {
+          "UId": "048cf880-68d1-9bc2-7f6f-7e0d8f244b28",
+          "A2": "MiiName",
+          "A3": "76d44c3c-d560-41a7-a55b-1bcfc60e4eb3",
+          "A4": "76d44c3c-d560-41a7-a55b-1bcfc60e4eb3",
+          "A5": "4711b182-4fd1-4894-a925-adf2274d346f",
+          "S2": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+        },
+        {
+          "UId": "46283262-cd43-918e-73b0-55e3023dbb07",
+          "A2": "MiiId",
+          "A3": "76d44c3c-d560-41a7-a55b-1bcfc60e4eb3",
+          "A4": "76d44c3c-d560-41a7-a55b-1bcfc60e4eb3",
+          "A5": "4711b182-4fd1-4894-a925-adf2274d346f",
+          "S2": "23018567-a13c-4320-8687-fd6f9e3699bd",
+          "E2": 1
+        }
+      ],
+      "D6": [],
+      "D20": {
+        "A2": "MiiVwContactAgeDaysEvents"
+      },
+      "D35": {},
+      "D36": {
+        "A3": "76d44c3c-d560-41a7-a55b-1bcfc60e4eb3",
+        "BS1": false
+      }
+    }
+  }
+}
