@@ -51,6 +51,10 @@
   "S4": "16be3651-8fe2-4159-8dd0-a803d4683dd3",
   "E6": true,
   "E20": true,
+  "E12": {
+    "FB1": 3,
+    "FB2": "4f367ca9-549b-4a1a-b64e-a40123f52ac0"
+  },
   "E17": "MiiRealtyManagerId",
   "E18": "MiiRealtyManagerName"
 }
@@ -73,6 +77,10 @@
   "S4": "56a8fbe6-c8b2-440b-8fb4-cc38c906a9d5",
   "E6": true,
   "E20": true,
+  "E12": {
+    "FB1": 1,
+    "FB2": "9a5ee1d9-a064-445b-87af-f8788ea78a19"
+  },
   "E17": "MiiRealtyOfferTypeId",
   "E18": "MiiRealtyOfferTypeName"
 }
@@ -86,6 +94,10 @@
   "S4": "fe7e4dce-c02e-4235-8529-05c72f3ba84f",
   "E6": true,
   "E20": true,
+  "E12": {
+    "FB1": 1,
+    "FB2": "6123806c-74ce-48a8-95db-9eb6c998032d"
+  },
   "E17": "MiiRealtyTypeId",
   "E18": "MiiRealtyTypeName"
 }
